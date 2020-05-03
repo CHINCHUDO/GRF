@@ -2,15 +2,15 @@ import React from 'react';
 import logo from './imgAssets/GRF_logo_2.png';
 // import logo from './logo.svg';
 import './App.css';
-import MyNewComponent from './components/MyNewComponent';
-import HomeComponent from './components/Home'
+import HomeComponent from './components/HomeComponent';
+import GRFTitle from './components/GRFTitleComponent';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <GRFTitle />
         <img src={logo} className="App-logo" alt="logo" />
-        <MyNewComponent />
         <HomeComponent />
         <a
           className="App-link"
