@@ -20,6 +20,12 @@ nav {
   target-new: tab;
 } */
 
+.Main-Page-Logo {
+  position: static;
+  height: auto;
+  max-height: 50vh;
+}
+
 .App-pages {
   margin-top: 17vh;
   margin-bottom: 10vh;
