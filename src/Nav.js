@@ -5,7 +5,7 @@ import './App.css';
 // import HomeComponent from './components/HomeComponent';
 import GRFTitle from './components/GRFTitleComponent';
 import {
-    BrowserRouter as Router,
+    // BrowserRouter as Router,
     // Switch,
     // Route,
     Link,
