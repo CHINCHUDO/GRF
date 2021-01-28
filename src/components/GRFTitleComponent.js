@@ -1,5 +1,5 @@
-import React from 'react'
+//  import React from 'react'
 
-const GRFTitle = () => (<h1>Ginger Redhead Festival</h1>)
+const GRFTitle = () => ("Ginger Redhead Festival")
  
 export default GRFTitle;
